@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sun Nov 18 18:54:25 2018
 
-@author: shashank
 """
 
 ''' Problem Statement:
@@ -26,7 +24,7 @@ from xgboost import XGBClassifier
 import xgboost as xgb
 import matplotlib.pyplot as plt
 
-path = r'C:\Users\nardekars.BSG\Documents\icarus-master\br personal\study\analytics_vidhya_projects\\'
+path = r'F:\Study\analytics_vidhya_projects\\'
 
 trainData = pd.read_csv(path+r'\train.csv')
 
