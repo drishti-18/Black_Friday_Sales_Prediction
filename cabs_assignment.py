@@ -7,7 +7,7 @@ import pandas as pd
 import glob, os
 #import reverse_geocoder as rg 
 
-path = r'F:\Users\study\thinkbumblebee\trips\\'
+path = r'F:\study\thinkbumblebee\trips\\'
 
 lookup_aggr_path = path + r'aggregated\\'
 
