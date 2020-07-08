@@ -1,15 +1,13 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sat Sep 14 15:58:10 2019
-
-@author: Dell
+Cab Assignment Data
 """
 
 import pandas as pd
 import glob, os
 #import reverse_geocoder as rg 
 
-path = r'C:\Users\nardekars\Documents\icarus-master\br personal\personal\thinkbumblebee\trips\\'
+path = r'F:\Users\study\thinkbumblebee\trips\\'
 
 lookup_aggr_path = path + r'aggregated\\'
 
